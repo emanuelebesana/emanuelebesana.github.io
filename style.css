@@ -1,0 +1,23 @@
+/*header style*/
+header {
+   text-align: center; 
+   padding: 20px;
+}
+/*navigation menu style*/
+nav {
+   text-align: center;
+   word-spacing: 30px;
+   Padding: 10px;
+}
+.row {
+   display: flex;
+   flex-wrap: wrap;
+}
+.profile {
+   flex: 70%;
+   padding: 20px;
+}
+/*profile image and heading style*/
+.profile h1 {
+   text-align: center;
+}
