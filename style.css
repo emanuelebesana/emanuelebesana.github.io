@@ -7,11 +7,4 @@ header {
    display: flex;
    flex-wrap: wrap;
 }
-.profile {
-   flex: 70%;
-   padding: 20px;
-}
-/*profile image and heading style*/
-.profile h1 {
-   text-align: center;
-}
+
