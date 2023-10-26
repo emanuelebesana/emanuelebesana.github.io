@@ -4,7 +4,7 @@ header {
    padding: 20px;
 }
 .row {
-   position: relative;
-   left: 100px;
+   position: absolute;
+   left: 59;
 }
 
