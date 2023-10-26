@@ -4,8 +4,9 @@ header {
    padding: 20px;
 }
 .row {
+   position: relative;
+   left: 30px;
    display: flex;
    flex-wrap: wrap;
-   margin-left:5px;
 }
 
