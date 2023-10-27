@@ -3,7 +3,7 @@ header {
    text-align: center; 
    padding: 20px;
 }
-.post-text-box {
+div.row {
    position: relative;
    left: 59;
 }
