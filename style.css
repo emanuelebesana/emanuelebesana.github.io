@@ -3,7 +3,8 @@ header {
    text-align: center; 
    padding: 20px;
 }
-div.row {
+
+.row {
    background: lightskyblue;
    position: relative;
    left: 100px;
