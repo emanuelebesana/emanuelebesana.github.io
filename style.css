@@ -1,12 +1,70 @@
-/*header style*/
-header {
-   text-align: center; 
-   padding: 20px;
+* {
+ font-family: Georgia, 'Times New Roman', Times, serif; 
 }
 
-.row {
-   background: lightskyblue;
-   height: 100px;
-   width: 100px;
+
+header h1 {
+   text-align: center;
+   padding: 0px;
+   font-size: 40px;
+   color: rgb(31, 207, 0);
+
 }
 
+body {
+   text-align: center;
+}
+
+div {
+  width: 350px;
+  height: 150px;
+  display:inline-block;
+  padding:40px;
+}
+.left {
+  vertical-align: top;
+  text-align: left; 
+  margin-left:-20%;/* whatever */
+}
+.left h2 {
+   text-align: center;
+}
+
+.center {
+   vertical-align: top;
+  text-align: left; 
+  margin-right:-20%;/* whatever */
+}
+.center h2 {
+   text-align: center;
+}
+
+
+.right {
+   text-align: left;
+  margin-left:-20%;/* whatever */
+}
+
+.right h2{
+   text-align: center;
+}
+
+
+.bottom {
+   vertical-align: top;
+   text-align: left;
+   margin-right:-20%;
+} 
+
+.bottom h2{
+   text-align: center;
+}
+
+
+ul {
+   padding: 0;
+}
+
+ul li {
+   padding: 5px 0px;
+}
